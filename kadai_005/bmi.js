@@ -1,3 +1,4 @@
 let bodyWeight = 68;
 let bodyHeiht = 1.7;
-console.log(bodyWeight / (bodyHeiht * bodyHeiht))
+let Bmi = (bodyWeight / (bodyHeiht * bodyHeiht));
+console.log(Bmi);
